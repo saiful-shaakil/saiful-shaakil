@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Shakil
+- 👀 I’m interested in programming,reading,writing and playing with key board.
+- 🌱 I’m currently learning Web Development.
+- 📫 You can reach me through [LinkTree](https://linktr.ee/saiful_shakil)
